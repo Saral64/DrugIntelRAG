@@ -57,7 +57,7 @@ def load_drug_data(file_path):
     
     return processed_docs
 
-# -----------------------------
+# -------------------------------
 # Main Execution
 # -----------------------------
 if __name__ == "__main__":
