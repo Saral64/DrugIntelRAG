@@ -1,0 +1,6 @@
+data/*.json
+!data/sample.json
+__pycache__/
+*.pyc
+corpus/
+.env
